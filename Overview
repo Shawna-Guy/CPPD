@@ -155,8 +155,6 @@
           </div>
         </div>
       </div>
-     <div class="row">
-	<div class="col-md-8">
       <section>
         <p>The Canada Pension Plan (CPP) disability benefit is a <strong>monthly payment</strong> you can get if you: </p>
         <ul>
@@ -222,20 +220,7 @@
           <p>We offer  other <a href="https://www.canada.ca/en/services/benefits/disability.html"> resources for people with  disabilities</a>.</p>
           <p>&nbsp; </p>
           <div>
-            <div> </div>
-  <details id="alert-info1" class="alert alert-info" open>
-    <summary class="h3">
-      <h3>Note: Employment Insurance Sickness Benefits</h3>
-    </summary>
-    <p>The Employment Insurance (<abbr>EI</abbr>) program offers temporary financial assistance to unemployed workers. This assistance includes providing <a rel="external" href="http://www.servicecanada.gc.ca/eng/sc/ei/benefits/sickness.shtml">sickness benefits</a> to people who are unable to work because of sickness, injury, or quarantine.</p>
-  </details>
-          <details id="alert-info2" class="alert alert-info" open>
-            <summary class="h3">
-              <h3>Note: Are you a health care professional?</h3>
-            </summary>
-            <p>Health care professionals play a key role in the <abbr>CPP</abbr> disability benefit process. Find out what you need to know if you are a <a href="/en/employment-social-development/programs/disability/benefits/medical.html">health care professional</a>.</p>
-          </details>
-      </div>
+          </div>
 </section>
       </section>
       <nav role="navigation">
@@ -245,26 +230,7 @@
         </ul>
       </nav>
 		</div>
-		
-		 <div class="col-md-4">
-        <section>
-          <h2>Guides and help</h2>
-          <ul class="lst-spcd">
-            <li><a href="https://www.canada.ca/en/employment-social-development/programs/pension-plan-disability-benefits/reports/toolkit.html">Canada Pension Plan disability benefit toolkit</a></li>
-            <li><a rel="external" href="http://www.fcac-acfc.gc.ca/Eng/forConsumers/lifeEvents/livingDisability/Pages/home-accueil.aspx">Living with a disability</a></li>
-          </ul>
-          <h2>Related services and info</h2>
-          <ul class="lst-spcd">
-            <li> <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/apply.html">Apply for <abbr>CPP</abbr> retirement pension</a> </li>
-            <li> <a rel="external" href="http://www.servicecanada.gc.ca/eng/services/pensions/cric.shtml">Canada Retirement Income Calculator</a> </li>
-            <li> <a rel="external" href="http://www.servicecanada.gc.ca/eng/online/mysca.shtml">My Service Canada Account</a> </li>
-            <li> <a rel="external" href="http://www.servicecanada.gc.ca/eng/lifeevents/disability.shtml">Living with a disability</a> </li>
-            <li> <a rel="external" href="http://www.seniors.gc.ca/eng/index.shtml">Canada.ca/Seniors</a> </li>
-          </ul>
-        </section>
-      </div>
-		
-	  </div>
+     </div>
     </div>
   </div>
   <div class="pagedetails ">
