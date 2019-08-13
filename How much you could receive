@@ -130,11 +130,11 @@
 	
 	
 		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
-<li><a href='https://www.canada.ca/en.html'>Home</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/publicpensions.html'>Public pensions</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp.html'>Canada Pension Plan - Overview</a></li>
-<li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html'>Canada Pension Plan Disability Benefit - Overview</a></li>
+<li><a href="https://www.canada.ca/en.html">Home</a></li>
+<li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+<li><a href="https://www.canada.ca/en/services/benefits/publicpensions.html">Public pensions</a></li>
+<li><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp.html">Canada Pension Plan - Overview</a></li>
+<li><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html">Canada Pension Plan Disability Benefit - Overview</a></li>
 </ol></div></nav>
 
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
@@ -330,7 +330,7 @@
     </details>
 </div>
        	<div class="col-sm-4 col-md-3 col-sm-offset-2 col-md-offset-4 col-lg-offset-5">
-        <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
+        <div class="wb-share" data-wb-share="{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}"></div>
         </div>
 </div>
         <dl id="wb-dtmd">
