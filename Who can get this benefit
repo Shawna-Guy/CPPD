@@ -157,7 +157,7 @@
           <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
             <div class="row">
               <ul class="toc lst-spcd col-md-12">
-                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html">1. Overview</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html" class="list-group-item">1. Overview</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item active">2. Who can get this benefit</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item">4. Apply</a></li>
