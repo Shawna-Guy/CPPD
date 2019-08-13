@@ -181,34 +181,33 @@
           <li>have a disability that is long-term and of indefinite  duration, or is likely to result in death </li>
         </ul>
         <h2>Two types of CPP disability benefits</h2>
-        <table border="1" cellspacing="0" cellpadding="0">
+        <table class="table table-bordered text-right table-hover">
           <tr>
-            <td width="227" valign="top"><p><strong>Benefit name</strong></p></td>
-            <td width="227" valign="top"><p><strong>Age</strong></p></td>
-            <td width="227" valign="top"><p><strong>Must be</strong></p></td>
+            <th>Benefit name</th>
+            <th>Age</th>
+            <th>Must be</th>
           </tr>
           <tr>
-            <td width="227" valign="top"><p><strong>CPP disability    benefit</strong></p></td>
-            <td width="227" valign="top"><p>Under 65</p></td>
-            <td width="227" valign="top"><p>Not receiving the CPP retirement pension</p></td>
+            <th>CPP disability benefit</th>
+            <td>Under 65</td>
+            <td>Not receiving the CPP retirement pension</td>
           </tr>
           <tr>
-            <td width="227" valign="top"><p><strong>CPP post-retirement    disability benefit</strong></p></td>
-            <td width="227" valign="top"><p>60 to 64</p></td>
-            <td width="227" valign="top"><p>Already receiving the CPP retirement pension for more than    15 months</p></td>
+            <th>CPP post-retirement disability benefit</th>
+            <td>60 to 64</td>
+            <td>Already receiving the CPP retirement pension for more than    15 months</td>
           </tr>
         </table>
         <h2>Children&rsquo;s benefit</h2>
         <p>If you are getting a disability benefit, your <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">dependant  children may be able to get a monthly payment</a>.<u> </u></p>
-        <table border="1" cellspacing="0" cellpadding="0">
+        <table class="table table-bordered text-right table-hover">
           <tr>
-            <td width="227" valign="top"><br>
-              <strong>Benefit name</strong></td>
-            <td width="227" valign="top"><p><strong>Age</strong></p></td>
-            <td width="227" valign="top"><p><strong>Must be</strong></p></td>
+			  <th>Benefit name</th>
+			  <th>Age</th>
+			  <th>Must be</th>
           </tr>
           <tr>
-            <td width="227" valign="top"><p><strong>CPP Children&rsquo;s    benefit</strong></p></td>
+			  <th>CPP Children&rsquo;s benefit</th>
             <td width="227" valign="top"><ul>
               <li>Under 18 or </li>
               <li>under 25 and in full-time attendance at a    recognized school or university</li>
