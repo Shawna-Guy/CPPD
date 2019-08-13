@@ -125,10 +125,10 @@
         <h2 class="wb-inv">You are here:</h2>
         <div class="container">
           <ol class="breadcrumb">
-            <li><a href='/en.html'>Home</a></li>
-            <li><a href='/en/services/benefits.html'>Benefits</a></li>
-            <li><a href='/en/services/benefits/publicpensions.html'>Public pensions</a></li>
-            <li><a href='/en/services/benefits/publicpensions/cpp.html'>Canada Pension Plan - Overview</a></li>
+            <li><a href="https://www.canada.ca/en.html">Home</a></li>
+            <li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+            <li><a href="https://www.canada.ca/en/services/benefits/publicpensions.html">Public pensions</a></li>
+            <li><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp.html">Canada Pension Plan - Overview</a></li>
           </ol>
         </div>
       </nav>
@@ -164,7 +164,7 @@
           <li>have a disability that is long-term and of indefinite  duration, or is likely to result in death </li>
         </ul>
         <h2>Two types of CPP disability benefits</h2>
-        <table class="table table-bordered text-right table-hover">
+        <table class="table table-bordered table-hover">
           <tr>
             <th>Benefit name</th>
             <th>Age</th>
@@ -183,7 +183,7 @@
         </table>
         <h2>Children&rsquo;s benefit</h2>
         <p>If you are getting a disability benefit, your <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">dependant  children may be able to get a monthly payment</a>.<u> </u></p>
-        <table class="table table-bordered text-right table-hover">
+        <table class="table table-bordered table-hover">
           <tr>
 			  <th>Benefit name</th>
 			  <th>Age</th>
