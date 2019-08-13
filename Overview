@@ -72,7 +72,7 @@
           </div>
         </section>
         <div class="row">
-          <div class="brand col-xs-5 col-md-4" property="publisher" typeof="GovernmentOrganization"> <a href="/en.html" property="url"> <img src="/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="" property="logo"> <span class="wb-inv" property="name"> Government of Canada</span> </a>
+          <div class="brand col-xs-5 col-md-4" property="publisher" typeof="GovernmentOrganization"> <a href="/en.html" property="url"> <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="" property="logo"> <span class="wb-inv" property="name"> Government of Canada</span> </a>
             <meta property="areaServed" typeof="Country" content="Canada"/>
             <link property="logo" href="/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
           </div>
@@ -137,7 +137,7 @@
   </div>
 </div>
 <main property="mainContentOfPage" typeof="WebPageElement" class="container">
-  <h1 property="name" id="wb-cont" dir="ltr"> Canada Pension Plan Disability Benefits - Overview</h1>
+  <h1 property="name" id="wb-cont" dir="ltr"> Disability benefit – Canada Pension Plan: Overview</h1>
   <div>
     <div class="mwsgeneric-base-html parbase section">
       <p><strong>From: <a href="/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
@@ -146,12 +146,11 @@
           <div class="row">
             <ul class="toc lst-spcd col-md-12">
               <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html" class="list-group-item active">1. Overview</a> </li>
-              <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item">2. Eligibility</a> </li>
+              <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item">2. Who can get this benefit</a> </li>
               <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item">3. How much could you receive</a> </li>
-              <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item">4. What you need before you start</a> </li>
-              <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/apply.html" class="list-group-item">5. Apply</a> </li>
-              <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html" class="list-group-item">6. After you've applied</a> </li>
-              <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/while-receiving.html" class="list-group-item">7.	While on Canada Pension Plan Disability Benefit</a> </li>
+              <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item">4. Apply</a> </li>
+              <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/apply.html" class="list-group-item">5. While on CPP Disability</a> </li>
+              <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html" class="list-group-item">6. Information for medical professionals</a> </li>
             </ul>
           </div>
         </div>
@@ -174,45 +173,91 @@
         </section>
       </div>
       <section>
-        <h2>1. Overview</h2>
-        <p>Canada Pension Plan (CPP) provides disability benefits (disability pension and post-retirement disability benefit) to people who have made enough contributions to the CPP and who are disabled and cannot work at any job on a regular basis. Benefits may also be available to their dependent children.</p>
+        <p>The Canada Pension Plan (CPP) disability benefit is a <strong>monthly payment</strong> you can get if you: </p>
         <ul>
-          <li> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html">CPP disability pension</a> <br>
-            A taxable monthly payment that is available to people who have contributed to the <abbr>CPP</abbr> and who are not able to work regularly because of a disability.</li>
-          <li><a href="/en/services/benefits/publicpensions/cpp/cpp-post-retirement-disability-benefit.html">CPP post-retirement disability benefit</a><br>
-            A new monthly benefit for CPP retirement pension recipients under the age of 65 who have made sufficient contributions to the CPP and are unable to work regularly because of a disability.</li>
-          <li> <a href="/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">Children's benefit</a> <br>
-            A monthly benefit for dependent children (under age 18 or between 18 and 25 and attending school full time) of someone receiving a <abbr>CPP</abbr> disability benefit.</li>
-          <li> <a href="/en/services/benefits/disability.html">Other disability resources</a> <br>
-            Links to resources for people with disabilities.</li>
+          <li>are under 65</li>
+          <li>have made enough contributions into the Canada  Pension Plan</li>
+          <li>have a physical or mental disability that  regularly stops you from doing any type of substantially gainful work</li>
+          <li>have a disability that is long-term and of indefinite  duration, or is likely to result in death </li>
         </ul>
-        <section>
-          <h3 id="disability">What we mean by "disability"</h3>
-          <p>To qualify for disability benefits (disability pension and post-retirement disability benefit) under the Canada Pension Plan (CPP), a disability must be both "severe" and "prolonged," and it must prevent you from being able to work at any job on a regular basis.</p>
+        <h2>Two types of CPP disability benefits</h2>
+        <table border="1" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="227" valign="top"><p><strong>Benefit name</strong></p></td>
+            <td width="227" valign="top"><p><strong>Age</strong></p></td>
+            <td width="227" valign="top"><p><strong>Must be</strong></p></td>
+          </tr>
+          <tr>
+            <td width="227" valign="top"><p><strong>CPP disability    benefit</strong></p></td>
+            <td width="227" valign="top"><p>Under 65</p></td>
+            <td width="227" valign="top"><p>Not receiving the CPP retirement pension</p></td>
+          </tr>
+          <tr>
+            <td width="227" valign="top"><p><strong>CPP post-retirement    disability benefit</strong></p></td>
+            <td width="227" valign="top"><p>60 to 64</p></td>
+            <td width="227" valign="top"><p>Already receiving the CPP retirement pension for more than    15 months</p></td>
+          </tr>
+        </table>
+        <h2>Children&rsquo;s benefit</h2>
+        <p>If you are getting a disability benefit, your <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">dependant  children may be able to get a monthly payment</a>.<u> </u></p>
+        <table border="1" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="227" valign="top"><br>
+              <strong>Benefit name</strong></td>
+            <td width="227" valign="top"><p><strong>Age</strong></p></td>
+            <td width="227" valign="top"><p><strong>Must be</strong></p></td>
+          </tr>
+          <tr>
+            <td width="227" valign="top"><p><strong>CPP Children&rsquo;s    benefit</strong></p></td>
+            <td width="227" valign="top"><ul>
+              <li>Under 18 or </li>
+              <li>under 25 and in full-time attendance at a    recognized school or university</li>
+            </ul></td>
+            <td width="227" valign="top"><p>The child of a person receiving a disability benefit.</p></td>
+          </tr>
+        </table>
+<section>
+          <h2>When you should apply</h2>
+          <p>You have to <a href="#_Disability_Benefits_–">apply for this  benefit</a>. You should apply for this benefit  as soon as possible. </p>
+          <h2>Benefit amount</h2>
+          <p>The basic disability benefit payment is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. Find  out more about how much you could receive. <br>
+          </p>
+          <h2>How long it will take</h2>
+          <p>It can take up to<strong> four months for a decision to be made. </strong>&nbsp;The  date your application form is received may affect the date your benefit begins.  Do not wait for your completed medical form before sending your completed  application form.<br>
+            However, a decision on your application can only be made <strong>when you have sent both of the following: </strong></p>
           <ul>
-            <li> <strong>Severe</strong> means that you have a mental or physical disability that regularly stops you from doing any type of substantially gainful work.</li>
-            <li> <strong>Prolonged</strong> means that your disability is long-term and of indefinite duration or is likely to result in death.</li>
+            <li>a complete application form (including  questionnaire and signed consent form)<strong></strong></li>
+            <li>a medical report signed  within 12 months.<strong></strong></li>
           </ul>
-          <p>Both the "severe" and "prolonged" criteria must be met simultaneously at the time of application. There is no common definition of "disability" in Canada. Even if you qualify for a disability benefit under other government programs or from private insurers, you may not necessarily qualify for CPP disability benefits (the disability pension and post-retirement disability pension).</p>
-          <p>Our medical adjudicators will determine, based on your application and supporting documentation, whether your disability is both severe and prolonged. See <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html">how applications for disability benefits are assessed</a>.</p>
-          <details id="alert-info1" class="alert alert-info" open>
-            <summary class="h3">
-              <h3>Note: Employment Insurance Sickness Benefits</h3>
-            </summary>
-            <p>The Employment Insurance (<abbr>EI</abbr>) program offers temporary financial assistance to unemployed workers. This assistance includes providing <a rel="external" href="http://www.servicecanada.gc.ca/eng/sc/ei/benefits/sickness.shtml">sickness benefits</a> to people who are unable to work because of sickness, injury, or quarantine.</p>
-          </details>
+          <p>If you are <strong>terminally  ill</strong>, we aim to process your application within <strong>5 business days</strong>.<br>
+            If your <strong>condition is  grave</strong>, we aim to process your application within <strong>30 calendar days</strong>.<br>
+            For all <strong>other eligible  disabilities</strong>, we aim to process your application within <strong>120 calendar days (4 months)</strong>. </p>
+          <h2>Where you can get help</h2>
+          <p>If you have general  questions about the disability benefits or specific questions about your  application, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html">contact  us</a>.</p>
+          <h2>Other disability resources          </h2>
+          <p>We offer  other <a href="https://www.canada.ca/en/services/benefits/disability.html"> resources for people with  disabilities</a>.</p>
+          <p>&nbsp; </p>
+          <div>
+            <div> </div>
+  <details id="alert-info1" class="alert alert-info" open>
+    <summary class="h3">
+      <h3>Note: Employment Insurance Sickness Benefits</h3>
+    </summary>
+    <p>The Employment Insurance (<abbr>EI</abbr>) program offers temporary financial assistance to unemployed workers. This assistance includes providing <a rel="external" href="http://www.servicecanada.gc.ca/eng/sc/ei/benefits/sickness.shtml">sickness benefits</a> to people who are unable to work because of sickness, injury, or quarantine.</p>
+  </details>
           <details id="alert-info2" class="alert alert-info" open>
             <summary class="h3">
               <h3>Note: Are you a health care professional?</h3>
             </summary>
             <p>Health care professionals play a key role in the <abbr>CPP</abbr> disability benefit process. Find out what you need to know if you are a <a href="/en/employment-social-development/programs/disability/benefits/medical.html">health care professional</a>.</p>
           </details>
-        </section>
+      </div>
+</section>
       </section>
       <nav role="navigation">
         <h2 class="wb-inv">Document navigation</h2>
         <ul class="pager">
-          <li class="next"> <a rel="next" href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html">Next - Eligibility</a> </li>
+          <li class="next"> <a rel="next" href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html">Next - Who can get this benefit</a> </li>
         </ul>
       </nav>
     </div>
