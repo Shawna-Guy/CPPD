@@ -152,22 +152,22 @@
         
         
         
-        <p><strong>From: <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p><div class="pagetag">
+        <p><strong>From: <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
+        <div class="pagetag">
           <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
             <div class="row">
               <ul class="toc lst-spcd col-md-12">
-                <li class="col-md-4"><a class="list-group-item" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html">1. Overview</a></li>
-                <li class="col-md-4"><a class="list-group-item active" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html">2. Eligibility</a></li>
-                <li class="col-md-4"><a class="list-group-item" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html">3. How much could you receive</a></li>
-                <li class="col-md-4 clr-lft-md clr-lft-lg"><a class="list-group-item" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html">4. What you need before you start</a></li>
-                <li class="col-md-4"><a class="list-group-item" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/apply.html">5. Apply</a></li>
-                <li class="col-md-4"><a class="list-group-item" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html">6. After you have applied</a></li>
-                <li class="col-md-4 clr-lft-md clr-lft-lg"><a class="list-group-item" href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/while-receiving.html">7. While on Canada Pension Plan disability benefit</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html" class="list-group-item active">1. Overview</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item">2. Who can get this benefit</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item">3. How much could you receive</a></li>
+                <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item">4. Apply</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/apply.html" class="list-group-item">5. While on CPP Disability</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html" class="list-group-item">6. Information for medical professionals</a></li>
               </ul>
             </div>
           </div>
-  </div>
-  <section>
+        </div>
+        <section>
     <p>The information provided below should be used as a  guideline.  We  encourage  you to apply for benefits and allow a Service Canada  representative to determine if you are eligible. Learn <a href="#_How_we_assess">how we assess applications  for the disability benefit</a>.</p>
     <h2>Do you qualify for a disability or  children&rsquo;s benefit </h2>
     <h3>CPP disability benefit</h3>
