@@ -171,38 +171,34 @@
     <p>The basic payment amount is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. </p>
     <p>If you are receiving the disability benefit or  post-retirement disability benefit, your dependent children may also be  eligible for a&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">children's benefit</a>. <br>
       <strong>Benefits  amounts </strong></p>
-    <table border="1" cellspacing="0" cellpadding="0">
+    <table class="mrgn-tp-lg table table-bordered text-right table-hover">
       <tr>
-        <td width="227" valign="top"><br>
-          <strong>Type of benefit</strong><strong> </strong></td>
-        <td width="227" valign="top"><p><strong>Average    monthly amount    (March 2019) </strong></p></td>
-        <td width="227" valign="top"><p><strong>Maximum    monthly payment    amount (2019) </strong></p></td>
+		  <th>Type of benefit</th>
+        <th>Average monthly amount (March 2019)</th>
+        <th>Maximum monthly payment amount (2019)</th>
       </tr>
       <tr>
-        <td width="227" valign="top"><p><strong>CPP </strong><strong></strong><strong>Disability    benefit</strong><strong> </strong></p></td>
-        <td width="227" valign="top"><p>$980.24 </p></td>
-        <td width="227" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%">
-          <tr>
-            <td></td>
-            <td><p>$1,362.30</p></td>
-          </tr>
-        </table></td>
+        <th>CPP Disability benefit</th>
+		  <td>$980.24</td>
+            <td>$1,362.30</td>
+		  </tr>
+      <tr>
+        <th>*CPP Post-retirement disability benefit</th>
+        <td>$496.36</td>
+        <td>$496.36</td>
       </tr>
       <tr>
-        <td width="227" valign="top"><p><strong>*CPP Post-retirement disability benefit </strong></p></td>
-        <td width="227" valign="top"><p>$496.36 </p></td>
-        <td width="227" valign="top"><p>$496.36 </p></td>
-      </tr>
-      <tr>
-        <td width="227" valign="top"><p><strong>CPP children&rsquo;s benefit</strong><strong> </strong></p></td>
-        <td width="227" valign="top"><p>$250.27 </p></td>
-        <td width="227" valign="top"><p>$250.27 </p></td>
+        <th>CPP children&rsquo;s benefit</th>
+        <td>$250.27</td>
+        <td>$250.27</td>
       </tr>
     </table>
-    <p>*Note: <br>
-      The  disability benefit amounts are reviewed every January to reflect changes in the  cost of living. Your monthly benefit amount will not decrease if the cost of  living goes down. <br>
-      Read more about &nbsp;Canada  Pension Plan <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html">&nbsp;benefits amounts</a>.</p>
-    <h2>Your payment    </h2>
+    <ul class="list-unstyled">
+        <li><small>*Note:
+      The disability benefit amounts are reviewed every January to reflect changes in the  cost of living. Your monthly benefit amount will not decrease if the cost of  living goes down. <br>
+      Read more about &nbsp;Canada  Pension Plan <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html">&nbsp;benefits amounts</a>.</small></li>
+      </ul>
+    <h2>Your payment</h2>
     <p>You can receive your benefit payment by direct deposit to  your banking account in Canada, the United States, or  other <a href="https://www.tpsgc-pwgsc.gc.ca/recgen/dd/etranger-abroad-eng.html#a4">specific  countries</a>. We can also pay you by cheque. </p>
     <h2>If you are getting other benefits</h2>
     <p>If you get both a  CPP  survivor's pension and a disability benefit, they will be combined into a  single monthly payment. The total amount you get cannot be greater  than $1,335.83 per month (the maximum amount of the disability pension). The limit  helps to make the Plan  fairer.  It   ensures  that no one person  receives  more than the amount  paid to an individual who worked and made the maximum  contributions to the Plan throughout their working life. </p>
