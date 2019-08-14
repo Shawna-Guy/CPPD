@@ -317,8 +317,8 @@
     <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
-      <li class="previous"><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html" rel="prev">Previous - Overview</a></li>
-      <li class="next"><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" rel="next">Next - How much could you receive</a></li>
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" rel="prev">Previous - How much you could receive</a></li>
+      <li class="next"><a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.Information%20medical%20professionals" rel="next">Next - How much could you receive</a></li>
       </ul>
   </nav>
         
