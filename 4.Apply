@@ -187,17 +187,26 @@
 					</section>
 				
 	<section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="Apply-2.png" alt=""><img src="Apply-arrow.png"></div>
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-2.png" alt=""></div>
 			<p class="text-left mrgn-tp-md"><a href="#step2">Submit forms by mail</a></p>
 	</section>
+						<section>
+		<div><img src="Apply-arrow.png" alt=""></div>
+					</section>
       <section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="Apply-3.png" alt=""><img src="Apply-arrow.png"></div>
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-3.png" alt=""></div>
 			<p class="text-left mrgn-tp-md"><a href="#step3">Get updates from us</a></p>
 	</section>
+						<section>
+		<div><img src="Apply-arrow.png" alt=""></div>
+					</section>
 				<section class="col-md-2">
-		<div class="text-center hidden-xs hidden-sm"><img src="Apply-4.png" alt=""><img src="Apply-arrow.png"></div>
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-4.png" alt=""></div>
 			<p class="text-left mrgn-tp-md"><a href="#step4">Get your first payment</a></p>
 	</section>
+						<section>
+		<div><img src="Apply-arrow.png" alt=""></div>
+					</section>
 				<section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-5.png" alt=""></div>
 			<p class="text-left mrgn-tp-md"><a href="#step5">If you disagree with the decision</a></p>
