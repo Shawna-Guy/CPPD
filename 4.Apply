@@ -175,6 +175,8 @@
   </ul>
     <p>Do  not delay in sending your completed application form. <strong> </strong></p>
     <p><strong>To  complete your application:</strong></p>
+			<div class="well">
+	        <div class="row list-unstyled">
 <section class="col-md-2">
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-1.png" alt=""><img src="Apply-arrow.png"></div>
 					<p class="text-left mrgn-tp-md"><a href="#step1">Make sure your application is complete</a></p>
@@ -195,6 +197,8 @@
 		<div class="text-center hidden-xs hidden-sm"><img src="Apply-5.png" alt=""></div>
 			<p class="text-left mrgn-tp-md"><a href="#step5">If you disagree with the decision</a></p>
 	</section>
+				</div>
+				</div>
 
     <h2 id="step1">Make sure your application is complete</h2>
     <p> To  apply for a disability benefit you  need to complete the following 2 forms :</p>
