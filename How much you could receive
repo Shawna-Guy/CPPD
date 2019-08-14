@@ -170,8 +170,10 @@
         <section>
     <p>The basic payment amount is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. </p>
     <p>If you are receiving the disability benefit or  post-retirement disability benefit, your dependent children may also be  eligible for a&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">children's benefit</a>. <br>
-      <strong>Benefits  amounts </strong></p>
     <table class="mrgn-tp-lg table table-bordered text-right table-hover">
+		<caption class="text-left">
+        <strong>Benefit amounts</strong>
+        </caption>
       <tr>
 		  <th>Type of benefit</th>
         <th>Average monthly amount (March 2019)</th>
