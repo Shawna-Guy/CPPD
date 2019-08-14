@@ -199,7 +199,7 @@
 	</section>
 				</div>
 				</div>
-
+<section>
     <h2 id="step1">Make sure your application is complete</h2>
     <p> To  apply for a disability benefit you  need to complete the following 2 forms :</p>
     <ul>
@@ -214,10 +214,6 @@
     <ul>
       <li><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530A.pdf">Terminal  Illness Application for Disability Benefits Under the Canada Pension Plan  form&nbsp;</a></li>
       <li>ask  your doctor or nurse practitioner to complete the&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530B.pdf">Terminal  Illness Medical Attestation for a Disability Benefits Application under the  Canada Pension Plan form</a></li>
-    </ul>
-    <ul>
-      <li></li>
-      <li> </li>
     </ul>
     <h3> Information on completing  the     application  form </h3>
     <ul type="disc">
@@ -319,7 +315,7 @@
       <p>It  can take <strong>up to four months</strong> to review  the decision, depending on the case. We will re-examine your application and  send the reasons for the decision to you by mail.<br>
       If you disagree with the new decision, you can contact  the&nbsp;<a href="http://www1.canada.ca/en/sst/index.html">Social Security Tribunal</a>&nbsp;to appeal.</p>
         <p>Because we are adding links to the 2 forms, reference to the  kit causes confusion.</p>
-
+		</section>
         </section>
   <nav role="navigation">
     <h2 class="wb-inv">Document navigation</h2>
