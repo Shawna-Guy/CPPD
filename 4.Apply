@@ -159,8 +159,8 @@
               <ul class="toc lst-spcd col-md-12">
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html" class="list-group-item">1. Overview</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item">2. Who can get this benefit</a></li>
-                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item active">3. How much could you receive</a></li>
-                <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item">4. Apply</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item">3. How much could you receive</a></li>
+                <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item active">4. Apply</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/apply.html" class="list-group-item">5. While on CPP Disability</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html" class="list-group-item">6. Information for medical professionals</a></li>
               </ul>
@@ -175,32 +175,28 @@
   </ul>
     <p>Do  not delay in sending your completed application form. <strong> </strong></p>
     <p><strong>To  complete your application:</strong></p>
-    <table border="1" cellspacing="0" cellpadding="0" width="0">
-      <tr>
-        <td width="130"><p align="center"><img width="43" height="43" src="Apply-1.png"></p></td>
-        <td width="128"><p align="center"><img width="55" height="42" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image004_0002.png" align="left" hspace="12"><img width="29" height="29" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image006_0002.png"></p></td>
-        <td width="128"><p align="center"><img width="53" height="53" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image008.png"><img width="29" height="29" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image006_0003.png"></p></td>
-        <td width="129"><p align="center"><img width="57" height="57" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image010.png" align="left" hspace="12"><img width="29" height="29" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image006_0004.png"></p></td>
-        <td width="16"><p align="center"><img width="29" height="29" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image006_0005.png"></p></td>
-        <td width="111"><p align="center"><img width="52" height="52" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image012.png"></p></td>
-      </tr>
-      <tr>
-        <td width="130"><p align="center"><a href="#_Prepare_your_application">Make sure your <br>
-          application<br>
-          is complete</a></p></td>
-        <td width="128"><p align="center"><a href="#_Submit_your_form">Submit forms <br>
-          by mail</a></p></td>
-        <td width="128"><p align="center"><a href="#_Receive_a_response">Get updates from <br>
-          us </a></p></td>
-        <td width="129"><p align="center"><a href="#_Get_your_first">Get your first payment</a></p></td>
-        <td width="16"><p align="center">&nbsp;</p></td>
-        <td width="111"><p align="center"><a href="#_If_you_disagree">If you    disagree with the decision</a></p></td>
-      </tr>
-    </table>
-    <div>
-      <div> </div>
-    </div>
-    <h2>Make sure your application is complete</h2>
+<section class="col-md-2">
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-1.png" alt=""><img src="Apply-arrow.png"></div>
+					<p class="text-left mrgn-tp-md"><a href="#step1">Make sure your application is complete</a></p>
+			</section>
+	<section class="col-md-2">
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-2.png" alt=""><img src="Apply-arrow.png"></div>
+			<p class="text-left mrgn-tp-md"><a href="#step2">Submit forms by mail</a></p>
+	</section>
+      <section class="col-md-2">
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-3.png" alt=""><img src="Apply-arrow.png"></div>
+			<p class="text-left mrgn-tp-md"><a href="#step3">Get updates from us</a></p>
+	</section>
+				<section class="col-md-2">
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-4.png" alt=""><img src="Apply-arrow.png"></div>
+			<p class="text-left mrgn-tp-md"><a href="#step4">Get your first payment</a></p>
+	</section>
+				<section class="col-md-2">
+		<div class="text-center hidden-xs hidden-sm"><img src="Apply-5.png" alt=""></div>
+			<p class="text-left mrgn-tp-md"><a href="#step5">If you disagree with the decision</a></p>
+	</section>
+
+    <h2 id="step1">Make sure your application is complete</h2>
     <p> To  apply for a disability benefit you  need to complete the following 2 forms :</p>
     <ul>
       <li><a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-1151.pdf">Application for Canada Pension Plan  Disability Benefits form</a></li>
@@ -267,11 +263,11 @@
 			</ul>
     <h3>Protecting your information</h3>
     <p>Learn how we protect your <a href="https://www.canada.ca/en/employment-social-development/services/my-account/request-pac.html">privacy</a>. </p>
-    <h2>Submit forms by  mail</h2>
+    <h2 id="step2">Submit forms by  mail</h2>
     <p>You  must apply in writing. <br>
       Print  copies   of the forms and&nbsp;return  to  us&nbsp;with&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP1730CPP">certified copies</a>&nbsp;of  any required documents. <br>
   <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Mail  your forms</a> or drop them off at a <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Service  Canada office</a>. </p>
-    <h2>Get updates on your application</h2>
+    <h2 id="step3">Get updates on your application</h2>
     <p>It can take up to<strong> four months for a decision to be made</strong>&nbsp;from  the date we receive your complete application   and  all   required  documents. </p>
     <ol start="1" type="1">
       <li> <strong>When we receive your application,</strong> we       will call you.</li>
@@ -299,9 +295,9 @@
       <li>your age, education and work history</li>
       <li>your work performance, productivity and how much  you are earning</li>
     </ul>
-    <h2> Your first payment</h2>
+    <h2 id="step4"> Your first payment</h2>
     <p>Your decision letter will give you the date and amount of  your first payment.</p>
-    <h2>If you disagree with  the decision</h2>
+    <h2 id="step5">If you disagree with  the decision</h2>
     <p>If you disagree  with the decision, you may ask to have the decision reviewed. You must request for us to review the decision in  writing <strong>within  90 days of the date in your decision letter</strong>.<br>
       <img width="261" height="41" src="file:///C|/Users/shawna.guy/AppData/Roaming/Adobe/Dreamweaver CC 2018/en_US/OfficeImageTemp/clip_image001_0003.png" alt="Rounded Rectangle: ⬅ Previous"><strong> </strong><strong><strong><br>
       To request a review of the decision:</p>
