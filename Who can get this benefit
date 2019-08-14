@@ -70,7 +70,7 @@
 			  <a href="https://www.canada.ca/en.html" property="url">
                     <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="" property="logo">
                     <span class="wb-inv" property="name"> Government of Canada</span>
-                </a>
+              </a>
                 <meta property="areaServed" typeof="Country" content="Canada"/>
 			  <link property="logo" href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
 			</div>
@@ -147,7 +147,7 @@
     <main property="mainContentOfPage" typeof="WebPageElement" class="container">
         
 
-      <h1>Disability benefit – Canada  Pension Plan: Who can get this benefit      </h1>
+      <h1>Disability benefit – Canada  Pension Plan: How  much you could receive      </h1>
       <div><div class="mwsgeneric-base-html parbase section">
         
         
@@ -158,8 +158,8 @@
             <div class="row">
               <ul class="toc lst-spcd col-md-12">
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html" class="list-group-item">1. Overview</a></li>
-                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item active">2. Who can get this benefit</a></li>
-                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item">3. How much could you receive</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html" class="list-group-item">2. Who can get this benefit</a></li>
+                <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/benefit-amount.html" class="list-group-item active">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/before-apply.html" class="list-group-item">4. Apply</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/apply.html" class="list-group-item">5. While on CPP Disability</a></li>
                 <li class="col-md-4"> <a href="/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/after-apply.html" class="list-group-item">6. Information for medical professionals</a></li>
@@ -168,76 +168,64 @@
           </div>
         </div>
         <section>
-    <p>The information provided below should be used as a  guideline.  We  encourage  you to apply for benefits and allow a Service Canada  representative to determine if you are eligible. Learn <a href="#_How_we_assess">how we assess applications  for the disability benefit</a>.</p>
-    <h2>Do you qualify for a disability or  children&rsquo;s benefit </h2>
-    <h3>CPP disability benefit</h3>
-    <p>The disability benefit is a monthly payment you can get if  you: </p>
+    <p>The basic payment amount is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. </p>
+    <p>If you are receiving the disability benefit or  post-retirement disability benefit, your dependent children may also be  eligible for a&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">children's benefit</a>. <br>
+      <strong>Benefits  amounts </strong></p>
+    <table class="mrgn-tp-lg table table-bordered text-right table-hover">
+      <tr>
+		  <th>Type of benefit</th>
+        <th>Average monthly amount (March 2019)</th>
+        <th>Maximum monthly payment amount (2019)</th>
+      </tr>
+      <tr>
+        <th>CPP Disability benefit</th>
+		  <td>$980.24</td>
+            <td>$1,362.30</td>
+		  </tr>
+      <tr>
+        <th>*CPP Post-retirement disability benefit</th>
+        <td>$496.36</td>
+        <td>$496.36</td>
+      </tr>
+      <tr>
+        <th>CPP children&rsquo;s benefit</th>
+        <td>$250.27</td>
+        <td>$250.27</td>
+      </tr>
+    </table>
+    <ul class="list-unstyled">
+        <li><small>*Note: <br>
+      The disability benefit amounts are reviewed every January to reflect changes in the  cost of living. Your monthly benefit amount will not decrease if the cost of  living goes down. <br>
+      Read more about &nbsp;Canada  Pension Plan <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html">&nbsp;benefits amounts</a>.</small></li>
+      </ul>
+    <h2>Your payment</h2>
+    <p>You can receive your benefit payment by direct deposit to  your banking account in Canada, the United States, or  other <a href="https://www.tpsgc-pwgsc.gc.ca/recgen/dd/etranger-abroad-eng.html#a4">specific  countries</a>. We can also pay you by cheque. </p>
+    <h2>If you are getting other benefits</h2>
+    <p>If you get both a  CPP  survivor's pension and a disability benefit, they will be combined into a  single monthly payment. The total amount you get cannot be greater  than $1,335.83 per month (the maximum amount of the disability pension). The limit  helps to make the Plan  fairer.  It   ensures  that no one person  receives  more than the amount  paid to an individual who worked and made the maximum  contributions to the Plan throughout their working life. </p>
+    <h3>Disability income from other sources</h3>
+    <p>If you are receiving disability income from other sources,  such as a private insurer or a provincial/territorial program, you may still be  able to receive the CPP disability  benefit. However, these other sources may change their payments if you are  approved for the disability benefit through the Canada Pension Plan.<br>
+      Contact your insurance company or social assistance program  for details about your  case.</p>
+    <h2> Disability benefit payments are  taxable income </h2>
+    <p>You can ask that federal income tax be deducted from your  monthly payments by:</p>
     <ul>
-      <li>are under 65</li>
-      <li>contributed enough to the Canada Pension Plan</li>
-      <li>have a physical or mental disability that  regularly stops you from doing any type of substantially gainful work</li>
-      <li>have a disability that is long-term and of  indefinite duration, or is likely to result in death </li>
+      <li> signing into your <a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My  Service Canada Account</a> or</li>
+      <li> completing  the <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3520CPP">Request  for voluntary Federal Income tax Deductions CPP/OAS form</a> and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mailing  it to us</a> or  dropping it off at a <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Service  Canada office</a></li>
     </ul>
-    <p> </p>
-    <h2>CPP  post-retirement disability benefit </h2>
-    <p>If you currently get the monthly Canada Pension Plan  retirement pension, you could receive the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-post-retirement-disability-benefit.html">Canada Pension Plan post-retirement disability benefit</a> if  you:</p>
-    <ul>
-      <li>are 60 to 64</li>
-      <li> contributed  enough to the Canada Pension Plan</li>
-      <li>have a physical or mental disability that  regularly stops you from doing any type of substantially gainful work </li>
-      <li>have  a disability that is long-term and of indefinite duration, or is likely to  result in death </li>
-      <li>already  receiving the CPP retirement pension for more than 15 months</li>
-    </ul>
-    <h3>CPP Children&rsquo;s benefit  </h3>
-    <p>If you are     getting  a disability  benefit, any of your dependant children <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">can  get a monthly payment</a> if they are:</p>
-    <ul>
-      <li>under 18, or</li>
-      <li>between 18 and 25 and attending school full time </li>
-    </ul>
-    <h2>If you worked less to   care for young children </h2>
-    <p>If you have   periods of zero or low income because you stayed home to raise  your children, the&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/eligibility.html#a2">child-rearing provision</a> could help you  qualify for the disability benefit. </p>
-    <h2>If you are divorced or separated</h2>
-    <p>Any contributions you and your spouse or common-law partner  made to the  CPP  while you lived together may be equally divided after a divorce or a  separation. This may help you  qualify  for the disability benefit. Find out more about&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-split-credits.html">credit splitting for divorced or  separated couples</a>.</p>
-    <h2> </h2>
-    <h2>If you missed applying for disability benefits in the past</h2>
-    <p>If you are applying for the&nbsp;disability benefit but  stopped working  a  while ago, you may still apply for a benefit now. <br>
-      You may be able to receive the benefit if:</p>
-    <ul>
-      <li>you had contributed  enough years to the&nbsp;Canada Pension Plan&nbsp; before you first became severely  disabled </li>
-      <li>you have been continuously disabled from that  date up to now</li>
-    </ul>
-    <p>If you are in this situation, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/cpp.html">contact us</a>. </p>
-    <h3>If you were incapacitated </h3>
-    <p>If you were incapacitated, you have up to one year  after regaining your capacity to apply if you were: </p>
-    <ul>
-      <li>physically  or mentally incapable of forming or expressing your intent to apply for  disability benefits </li>
-      <li>also incapable of asking someone else to apply or  act on your behalf, </li>
-    </ul>
-    <p>Have  a medical professional complete the <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3505CPP">Certificate  of Incapability form</a> and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail  it to us</a> or drop it off at a <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Service  Canada office</a>. You can also <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html">contact us</a>&nbsp;to send your medical professional the form.</p>
-    <h2> </h2>
-    <h2> If  you live in Quebec</h2>
-    <p>If  you live in Quebec, you would not apply for the disability benefit under the  Canada Pension Plan. You can apply for the <a href="http://www.rrq.gouv.qc.ca/en/programmes/regime_rentes/prestations_invalidite/Pages/prestations_invalidite.aspx">Quebec  Pension Plan disability benefit</a> if:</p>
-    <ul type="disc">
-      <li>you have worked only in the province of Quebec</li>
-      <li>you       currently live in Quebec and have worked both in the province of Quebec       and in another province or territory; or</li>
-      <li>you       have worked in Quebec, currently live outside Canada and your last province of residence was Quebec</li>
-    </ul>
-    <h2> </h2>
-    <h2>If you worked both in and outside Quebec</h2>
-    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p>
-    <h2>If you worked both in and outside Quebec</h2>
-    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p>
-    <h2>If you worked outside Canada</h2>
-    <p>If  you <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-international.html">worked  in a country other than Canada</a>, the credits you earned in that country may  help you qualify for&nbsp;the&nbsp;disability benefit. </p>
-    <h2>If you are a health  care professional </h2>
-    <p>Find out what you need to do to <a href="https://www.canada.ca/en/employment-social-development/programs/disability/benefits/medical.html">help your patient apply  for a disability benefit </a>.</p>
+    <p>If you do not ask for monthly tax deductions, you may have  to pay your income tax each quarter. For more information, contact the&nbsp;<a href="http://www.cra-arc.gc.ca/cntct/tso-bsf-eng.html">Canada Revenue Agency (CRA) Tax Services Office</a>.</p>
+    <p><strong>Medications and medical devices</strong></p>
+    The CPP  disability benefit does not pay for medications or medical devices. Contact  your province or territory if you need financial help for medication or medical  devices.
     <div>
       <div> </div>
       <div> </div>
       <div> </div>
-      <div> </div>
-      <section> </section>
     </div>
+<div>
+  <div> </div>
+  <div> </div>
+  <div> </div>
+  <div> </div>
+  <section> </section>
+</div>
   </section>
   <nav role="navigation">
     <h2 class="wb-inv">Document navigation</h2>
