@@ -1,0 +1,404 @@
+<!doctype html>
+
+<!--[if lt IE 9]>
+<html class="no-js lt-ie9" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head prefix="og: http://ogp.me/ns#">
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<title>Disability benefit – Canada Pension Plan: While on CPP disability</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+
+<script src="//assets.adobedtm.com/caacec67651710193d2331efef325107c23a0145/satelliteLib-78cf42deb149c9766cbaaa6151e252b9b67c0200.js"></script>
+
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/clientlib-all.min.css" type="text/css">
+
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css"/>
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"/>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous"/>
+
+<!--[if gte IE 9 | !IE ]><!-->
+<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon"/>
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<link href="/etc/designs/canada/wet-boew/assets/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/ie8-wet-boew.min.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/ie8-wet-boew.min.js"></script>
+<![endif]-->
+
+<noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/noscript.min.css"/></noscript>
+<script>dataLayer = []; dataLayer1 = [];</script>
+</head>
+
+<body vocab="http://schema.org/" typeof="WebPage">
+
+<div class="par iparys_inherited">
+
+        <div class="global-header"><nav><ul id="wb-tphp">
+	<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+	<li class="wb-slc"><a class="wb-sl" href="#wb-info">Skip to &#34;About government&#34;</a></li>
+	
+</ul></nav>
+
+<header>
+	<div id="wb-bnr" class="container">
+		
+		<section id="wb-lng" class="text-right">
+    <h2 class="wb-inv">Language selection</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <ul class="list-inline margin-bottom-none">
+                <li>
+                    <a lang="fr" href="https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/prestation-invalidite-rpc/admissibilite.html">
+                        Fran&ccedil;ais
+                    </a>
+                </li>
+                
+                
+            </ul>
+        </div>
+    </div>
+</section>
+		<div class="row">
+			<div class="brand col-xs-5 col-md-4" property="publisher" typeof="GovernmentOrganization">
+			  <a href="https://www.canada.ca/en.html" property="url">
+                    <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="" property="logo">
+                    <span class="wb-inv" property="name"> Government of Canada</span>
+                </a>
+                <meta property="areaServed" typeof="Country" content="Canada"/>
+			  <link property="logo" href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
+			</div>
+			<section id="wb-srch" class="col-lg-8 text-right">
+				<h2>Search</h2>
+				
+<form action="https://www.canada.ca/en/sr/srb.html" method="get" name="cse-search-box" role="search" class="form-inline">
+<div class="form-group">
+<label for="wb-srch-q" class="wb-inv">Search Canada.ca</label>
+<input name="cdn" value="canada" type="hidden"/>
+<input name="st" value="s" type="hidden"/>
+<input name="num" value="10" type="hidden"/>
+<input name="langs" value="en" type="hidden"/>
+<input name="st1rt" value="1" type="hidden"/>
+<input name="s5bm3ts21rch" value="x" type="hidden"/>
+
+	<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search Canada.ca"/>
+    
+
+<input type="hidden" name="_charset_" value="UTF-8"/>
+
+<datalist id="wb-srch-q-ac">
+</datalist>
+</div>
+<div class="form-group submit">
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+</div>
+</form>
+
+			</section>
+		</div>
+	</div>
+
+	
+	
+	<nav class="gcweb-v2 gcweb-menu" typeof="SiteNavigationElement"><div class="container">
+		<h2 class="wb-inv">Menu</h2>
+		<button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+		<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+			<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+		</ul>
+	</div></nav>
+	
+	
+		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
+<li><a href='https://www.canada.ca/en.html'>Home</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/publicpensions.html'>Public pensions</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp.html'>Canada Pension Plan - Overview</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html'>Canada Pension Plan Disability Benefit - Overview</a></li>
+</ol></div></nav>
+
+	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
+</header>
+</div>
+
+
+</div>
+
+    <main property="mainContentOfPage" typeof="WebPageElement" class="container">
+        
+
+      <h1>Disability benefit – Canada  Pension Plan: While on CPP Disability</h1>
+      <div><div class="mwsgeneric-base-html parbase section">
+        
+        
+        
+        <p><strong>From: <a href="https://www.canada.ca/en/employment-social-development.html">Employment and Social Development Canada</a></strong></p>
+        <div class="pagetag">
+          <div class="mrgn-tp-md mrgn-bttm-lg brdr-bttm">
+            <div class="row">
+              <ul class="toc lst-spcd col-md-12">
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/1.Overview" class="list-group-item">1. Overview</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/2.Who%20can%20get%20this%20benefit" class="list-group-item">2. Who can get this benefit</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a></li>
+                <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" class="list-group-item">4. Apply</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20disability" class="list-group-item active">5. While on CPP Disability</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <section>
+    <p>From  time to time, cases are reviewed to ensure that only eligible people receive  disability benefits.<br>
+If your case is being reviewed, you may be asked to provide current medical and  other information. Because everyone's medical condition and capacity to work is unique, each case is looked at individually.<br>
+Once all the necessary information has been collected, a decision to continue or  stop disability benefits is made. We will inform you of this decision in writing. </p>
+    <h2> Volunteering or going to school</h2>
+    <p>Without losing your disability benefit, you can:</p>
+    <ul type="disc">
+      <li>do volunteer work</li>
+      <li>go back to school to upgrade or complete a diploma or degree</li>
+      <li>take a re-training program</li>
+    </ul>
+    <h2>Working while receiving CPP disability </h2>
+    <p>You can earn up to a certain amount per year without losing  your disability benefits. For 2019, this amount is $5,700 (before taxes). If  you earn more than the amount allowed, you must&nbsp;<a href="https://www.canada.ca/en/employment-social-development/corporate/contact/cpp.html">contact Canada Pension Plan</a>.<br>
+      If you delay in contacting us when you start working and  making over the allowed amount, you might have to pay some money back. <strong></strong><br>
+      We may be able to help you return to work through the&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/vocational-rehabilitation.html">CPP Disability Vocational  Rehabilitation Program</a>.</p>
+    <h2>When  your benefit could stop</h2>
+    <p>The  disability benefit is meant to replace some of your employment income for as  long as your disability stops you from working at any job on a regular basis.</p>
+      <p>Your disability benefit will stop if:</p>
+    <ul>
+      <li>you are capable of working on a regular basis</li>
+      <li>you are no longer disabled</li>
+      <li>you turn 65 </li>
+      <li>you die </li>
+    </ul>
+    <p>When  a disability benefit is cancelled, any related&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">children's benefits</a> are  also cancelled. </p>
+    <h3>When you turn 65</h3>
+    <p>When you turn 65 the disability benefit will automatically be changed to a Canada Pension Plan retirement pension. If you are getting the post-retirement disability  benefit, it will stop<br>
+      Your  retirement pension will be less than your disability benefit. However, you can also apply for <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html">Old  Age Security</a> and the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html">Guaranteed  Income Supplement</a>. Your spouse or common-law partner may also be eligible  for the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement/allowance.html">Allowance</a> benefit if they are 60 to 64 (up to and including the month of their 65th  birthday).</p>
+    <h3>When someone dies </h3>
+    <p>If you're reading this following the loss of a  loved one, please accept our condolences. <br>
+      When  someone dies, please inform us as soon as possible to avoid overpayment. <br>
+      The estate and survivors may be eligible to receive  other CPP benefits: <br>
+  <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-death-benefit.html">Death  benefit</a> <br>
+  <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-survivor-pension.html">Survivor&rsquo;s pension</a></p>
+  </section>
+  <nav role="navigation">
+    <h2 class="wb-inv">Document navigation</h2>
+    
+    <ul class="pager">
+      <li class="previous"><a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" rel="prev">Previous - Apply</a></li>
+      </ul>
+  </nav>
+        
+        
+  </div>
+        
+</div>
+        <div class="pagedetails ">
+<div class="row">
+<div class="col-sm-6 col-md-5 col-lg-4">
+    <details class="brdr-0">
+        
+<summary class="btn btn-default text-center">Report a problem or mistake on this page</summary>
+<div class="clearfix"></div>
+<div class="well row">
+    <div><div class="gc-rprt-prblm">
+    <div class="gc-rprt-prblm-frm gc-rprt-prblm-tggl">			
+			<form id="gc-rprt-prblm-form" action="https://www.canada.ca/gc/services/generateemail" method="post">
+            <input type="hidden" name="pageTitle" value="Canada Pension Plan Disability Benefit - Eligibility">
+            <input type="hidden" name="submissionPage" value="https://www.canada.ca/content/canadasite/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/eligibility.html">
+            <input type="hidden" name="lang" value="en">
+            <input type="hidden" name="pageOwner" value="gc:institutions/department-of-employment-and-social-development">
+            <input id="emailTemplate" name="emailTemplate" type="hidden" value="reportaproblem/rap"> 
+            <input name="subject" type="hidden" value="Report a problem or mistake on this page">
+            <fieldset>
+                <legend><span class="field-name">Please select all that apply:</span></legend>
+                 <div class="checkbox">
+                    <label for="problem1"><input name="problem1" id="problem1" type="checkbox" value="Yes" data-reveal="#broken" data-gc-analytics-rap="A link, button or video is not working-Un lien, un bouton ou une vidéo ne fonctionne pas">A link, button or video is not working</label>
+                    <input name="problem1" type="hidden" value="No">
+                </div>
+                <div class="checkbox">
+                    <label for="problem2"><input name="problem2" id="problem2" type="checkbox" value="Yes" data-reveal="#spelling" data-gc-analytics-rap="It has a spelling mistake-Il y a une erreur d'orthographe ou de grammaire">It has a spelling mistake</label>
+                    <input name="problem2" type="hidden" value="No">
+                </div>
+                <div class="checkbox">
+                    <label for="problem3"><input name="problem3" id="problem3" type="checkbox" value="Yes" data-reveal="#wrong" data-gc-analytics-rap="Information is missing-Les renseignements sont incomplets">Information is missing</label>
+                    <input name="problem3" type="hidden" value="No">
+               </div>
+                <div class="checkbox">
+                    <label for="problem4"><input name="problem4" id="problem4" type="checkbox" value="Yes" data-reveal="#outdated" data-gc-analytics-rap=" Information is outdated or wrong-L'information n'est plus à jour ou est erronée">Information is outdated or wrong</label>
+                    <input name="problem4" type="hidden" value="No">
+                </div>
+                <div class="checkbox">
+                    <label for="problem5"><input name="problem5" id="problem5" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap=" Login error when trying to access an account (e.g. My Service Canada Account)-Message d'erreur à l'ouverture de la session lorsque je tente d'accéder à un compte (ex. Mon dossier Service Canada)">Login error when trying to access an account (e.g. My Service Canada Account)</label>
+                    <input name="problem5" type="hidden" value="No">
+                </div>
+   					<ul>
+					<li class="checkbox">
+                        <label for="problem6a"><input name="problem6" id="problem6a" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="GC Key access-Accès CléGC">GC Key access</label>
+                        <input name="problem6" type="hidden" value="No">
+                     </li>
+					<li class="checkbox">
+                        <label for="problem7"><input name="problem7" id="problem7" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="SecureKey Concierge (Banking Credential) access-Accès SecureKey Service de Concierge (justificatifs d'identité bancaires)">SecureKey Concierge (Banking Credential) access </label>
+                        <input name="problem7" type="hidden" value="No">
+                     </li>
+					<li class="checkbox">
+                        <label for="problem8"><input name="problem8" id="problem8" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="Personal Access Code (PAC) problems or EI Access Code (AC) problems-Problème avec le Code d'accès personnel (CAP) ou avec le Code d'accès (CA) de l'assurance emploi">Personal Access Code (PAC) problems or EI Access Code (AC) problems</label>
+                        <input name="problem8" type="hidden" value="No">
+                     </li>	
+					<li class="checkbox">
+                        <label for="problem9"><input name="problem9" id="problem9" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="Social Insurance Number (SIN) validation problems-Problème lié à la validation du numéro d'assurance sociale (NAS)">Social Insurance Number (SIN) validation problems</label>
+                        <input name="problem9" type="hidden" value="No">
+                     </li>								
+					<li class="checkbox">
+                        <label for="problem10"><input name="problem10" id="problem10" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="Other login error not in this list-Autre erreur lors de l'ouverture de session qui ne figure pas sur cette liste">Other login error not in this list</label>
+                        <input name="problem10" type="hidden" value="No">
+                     </li>		 
+                     </ul>
+				    <div class="checkbox">
+                    <label for="problem11"><input name="problem11" id="problem11" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="I can't find what I'm looking for-Je n'arrive pas à trouver ce que je cherche">I can't find what I'm looking for</label>
+                    <input name="problem11" type="hidden" value="No">
+                </div>
+             		<div class="checkbox">
+                    <label for="problem12"><input name="problem12" id="problem12" type="checkbox" value="Yes" data-reveal="#find" data-gc-analytics-rap="Other issue not in this list-Autre problème qui ne figure pas sur cette liste">Other issue not in this list</label>
+                    <input name="problem12" type="hidden" value="No">
+                </div>                 
+                   </fieldset>
+            <button data-wb5-click="postback@#gc-rprt-prblm-form@" type="submit" class="btn btn-primary wb-toggle" data-toggle='{"stateOff": "hide", "stateOn": "show", "selector": ".gc-rprt-prblm-tggl"}'>Submit</button>
+
+        </form>
+    </div>
+    <div class="gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide">
+        <h3>Thank you for your help!</h3>
+<p>You will not receive a reply. For enquiries,&nbsp;<a href="https://www.canada.ca/en/contact/index.html">contact us</a>.</p>
+
+    </div>
+</div></div>
+</div>
+
+    </details>
+</div>
+       	<div class="col-sm-4 col-md-3 col-sm-offset-2 col-md-offset-4 col-lg-offset-5">
+        <div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
+        </div>
+</div>
+        <dl id="wb-dtmd">
+    <dt>Date modified:</dt>
+    <dd><time property="dateModified">2019-05-07</time></dd>
+</dl>
+</div>
+    </main>
+        
+        <div class="par iparys_inherited">
+
+
+</div>
+        
+        <div class="par iparys_inherited">
+        <div class="global-footer">
+    <footer id="wb-info">
+        <div class="landscape">
+        <nav class="container wb-navcurr">
+            <h2 class="wb-inv">About government</h2>
+            <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+                
+                     
+                         <li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+
+                        <li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+
+                        <li><a href="/en/government/publicservice.html">Public service and military</a></li>
+
+                        <li><a href="https://www.canada.ca/en/news.html">News</a></li>
+
+                        <li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+  
+                    
+                        <li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+
+                    
+                        <li><a href="http://pm.gc.ca/eng">Prime Minister</a></li>
+
+                        <li><a href="https://www.canada.ca/en/government/system.html">About government</a></li>
+
+                        <li><a href="http://open.canada.ca/en">Open government</a></li>
+
+            </ul>
+        </nav>
+        </div>
+        <div class="brand">
+            <div class="container">
+                <div class="row">
+                    <nav class="col-md-10 ftr-urlt-lnk">
+                        <h2 class="wb-inv">About this site</h2>
+                        <ul>
+                            
+                                
+                                    <li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+                                
+
+                                    <li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+              
+                                    <li><a href="https://www.canada.ca/en/government/about.html">About Canada.ca</a></li>
+
+                                    <li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+
+                                    <li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+
+                            
+                        </ul>
+                    </nav>
+                    <div class="col-xs-6 visible-sm visible-xs tofpg">
+                        <a href="#wb-cont">Top of page <span class="glyphicon glyphicon-chevron-up"></span></a>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-right">
+                        <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+</div>
+
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+<script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/clientlib-publish.min.js"></script>
+
+
+<!--[if gte IE 9 | !IE ]><!-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="/etc/designs/canada/wet-boew/js/ie8-wet-boew2.min.js"></script>
+<![endif]-->
+
+<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+</body>
+</html>
