@@ -150,16 +150,20 @@
               <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a> </li>
               <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" class="list-group-item">4. Apply</a> </li>
               <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20Disability" class="list-group-item">5. While on CPP Disability</a> </li>
+			<li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/6.Medical" class="list-group-item">5. While on CPP Disability</a> </li>
             </ul>
           </div>
         </div>
       </div>
+      <ul>
+        <li>have a mental or physical disability that regularly stops you from doing any type of substantially gainful work</li>
+      </ul>
       <section>
         <p>The Canada Pension Plan (CPP) disability benefit is a <strong>monthly payment</strong> you can get if you: </p>
         <ul>
           <li>are under 65</li>
           <li>have made enough contributions into the Canada  Pension Plan</li>
-          <li>have a physical or mental disability that  regularly stops you from doing any type of substantially gainful work</li>
+          <li>have a   mental or  physical disability that regularly stops you from doing any type  of substantially gainful work</li>
           <li>have a disability that is long-term and of indefinite  duration, or is likely to result in death </li>
         </ul>
         <h2>Two types of CPP disability benefits</h2>
@@ -176,8 +180,8 @@
           </tr>
           <tr>
             <th>CPP post-retirement disability benefit</th>
-            <td>60 to 64</td>
-            <td>Already receiving the CPP retirement pension for more than    15 months</td>
+            <td>60 - 64</td>
+            <td>Already receiving the CPP retirement pension for more than    15 months or become disabled after starting to receive the retirement pension</td>
           </tr>
         </table>
         <h2>Children&rsquo;s benefit</h2>
@@ -190,18 +194,15 @@
           </tr>
           <tr>
 			  <th>CPP Children&rsquo;s benefit</th>
-            <td><ul>
-              <li>Under 18 or </li>
-              <li>under 25 and in full-time attendance at a    recognized school or university</li>
-            </ul></td>
-            <td><p>The child of a person receiving a disability benefit.</p></td>
+            <td>Under 18 or between the ages of 18 and 25 and in full-time attendance at a recognized school or university</td>
+            <td><p>The child of a person receiving a disability benefit</p></td>
           </tr>
         </table>
 <section>
           <h2>When you should apply</h2>
           <p>You have to <a href="#_Disability_Benefits_–">apply for this  benefit</a>. You should apply for this benefit  as soon as possible. </p>
           <h2>Benefit amount</h2>
-          <p>The basic disability benefit payment is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. Find  out more about how much you could receive. <br>
+          <p>The basic disability benefit payment is $496.36. We add to the basic  amount based on how much you paid into the Canada Pension Plan while you  worked. Find  out more about <a href="https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive">how much you could receive</a>.
           </p>
           <h2>How long it will take</h2>
           <p>It can take up to<strong> four months for a decision to be made. </strong>&nbsp;The  date your application form is received may affect the date your benefit begins.  Do not wait for your completed medical form before sending your completed  application form.<br>
@@ -212,7 +213,7 @@
           </ul>
           <p>If you are <strong>terminally  ill</strong>, we aim to process your application within <strong>5 business days</strong>.<br>
             If your <strong>condition is  grave</strong>, we aim to process your application within <strong>30 calendar days</strong>.<br>
-            For all <strong>other eligible  disabilities</strong>, we aim to process your application within <strong>120 calendar days (4 months)</strong>. </p>
+            For all <strong>other eligible  disabilities</strong>, we aim make a decision on your eligibility within <strong>120 calendar days (4 months)</strong>. </p>
           <h2>Where you can get help</h2>
           <p>If you have general  questions about the disability benefits or specific questions about your  application, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html">contact  us</a>.</p>
           <h2>Other disability resources          </h2>
