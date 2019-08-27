@@ -162,6 +162,8 @@
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" class="list-group-item">4. Apply</a></li>
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20Disability" class="list-group-item">5. While on CPP Disability</a></li>
+				<li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/6.Medical" class="list-group-item">6. Information for medical professionals</a> </li>
+            </ul>
               </ul>
             </div>
           </div>
@@ -174,31 +176,35 @@
     <ul>
       <li>are under 65</li>
       <li>contributed enough to the Canada Pension Plan</li>
-      <li>have a physical or mental disability that  regularly stops you from doing any type of substantially gainful work</li>
+      <li>have a mental or physical disability that regularly stops you from doing any type of substantially gainful work</li>
       <li>have a disability that is long-term and of  indefinite duration, or is likely to result in death </li>
     </ul>
     <p> </p>
     <h2>CPP  post-retirement disability benefit </h2>
     <p>If you currently get the monthly Canada Pension Plan  retirement pension, you could receive the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-post-retirement-disability-benefit.html">Canada Pension Plan post-retirement disability benefit</a> if  you:</p>
     <ul>
-      <li>are 60 to 64</li>
+      <li>are 60 to 65</li>
       <li> contributed  enough to the Canada Pension Plan</li>
-      <li>have a physical or mental disability that  regularly stops you from doing any type of substantially gainful work </li>
+      <li>have a  mental or  physical disability that regularly stops you from doing any type  of substantially gainful work</li>
       <li>have  a disability that is long-term and of indefinite duration, or is likely to  result in death </li>
-      <li>already  receiving the CPP retirement pension for more than 15 months</li>
+      <li>already  receiving the CPP retirement pension for more than 15 months or become disabled after starting to receive the  retirement pension</li>
     </ul>
     <h3>CPP Children&rsquo;s benefit  </h3>
-    <p>If you are     getting  a disability  benefit, any of your dependant children <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">can  get a monthly payment</a> if they are:</p>
+    <p>If you are getting  a disability  benefit, any of your dependant children <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">can  get a monthly payment</a> if they are:</p>
     <ul>
       <li>under 18, or</li>
       <li>between 18 and 25 and attending school full time </li>
     </ul>
-    <h2>If you worked less to   care for young children </h2>
+	<details>
+		<summary><strong>If you worked less to   care for young children</strong></summary>
     <p>If you have   periods of zero or low income because you stayed home to raise  your children, the&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/eligibility.html#a2">child-rearing provision</a> could help you  qualify for the disability benefit. </p>
-    <h2>If you are divorced or separated</h2>
+	</details>
+			<details>
+				<summary><strong>If you are divorced or separated</strong></summary>
     <p>Any contributions you and your spouse or common-law partner  made to the  CPP  while you lived together may be equally divided after a divorce or a  separation. This may help you  qualify  for the disability benefit. Find out more about&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-split-credits.html">credit splitting for divorced or  separated couples</a>.</p>
-    <h2> </h2>
-    <h2>If you missed applying for disability benefits in the past</h2>
+			</details>
+    <details>
+    <summary><strong>If you missed applying for disability benefits in the past</strong></summary>
     <p>If you are applying for the&nbsp;disability benefit but  stopped working  a  while ago, you may still apply for a benefit now. <br>
       You may be able to receive the benefit if:</p>
     <ul>
@@ -206,37 +212,34 @@
       <li>you have been continuously disabled from that  date up to now</li>
     </ul>
     <p>If you are in this situation, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/cpp.html">contact us</a>. </p>
-    <h3>If you were incapacitated </h3>
-    <p>If you were incapacitated, you have up to one year  after regaining your capacity to apply if you were: </p>
-    <ul>
-      <li>physically  or mentally incapable of forming or expressing your intent to apply for  disability benefits </li>
-      <li>also incapable of asking someone else to apply or  act on your behalf, </li>
-    </ul>
-    <p>Have  a medical professional complete the <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3505CPP">Certificate  of Incapability form</a> and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mail  it to us</a> or drop it off at a <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Service  Canada office</a>. You can also <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html">contact us</a>&nbsp;to send your medical professional the form.</p>
-    <h2> </h2>
-    <h2> If  you live in Quebec</h2>
+		  </details>
+			<details>
+			<summary><strong>If you were incapacitated</strong></summary>
+    <p>If you  are or were   incapable of forming or expressing an intention to make an application, <a href="https://www.canada.ca/en/employment-social-development/corporate/contact/cpp.html">contact us</a>.</p>
+		</details>
+<details>
+    <summary><strong>If you live in Quebec</strong></summary>
     <p>If  you live in Quebec, you would not apply for the disability benefit under the  Canada Pension Plan. You can apply for the <a href="http://www.rrq.gouv.qc.ca/en/programmes/regime_rentes/prestations_invalidite/Pages/prestations_invalidite.aspx">Quebec  Pension Plan disability benefit</a> if:</p>
     <ul type="disc">
       <li>you have worked only in the province of Quebec</li>
-      <li>you       currently live in Quebec and have worked both in the province of Quebec       and in another province or territory; or</li>
-      <li>you       have worked in Quebec, currently live outside Canada and your last province of residence was Quebec</li>
+      <li>you currently live in Quebec and have worked both in the province of Quebec and in another province or territory; or</li>
+      <li>you have worked in Quebec, currently live outside Canada and your last province of residence was Quebec</li>
     </ul>
-    <h2> </h2>
-    <h2>If you worked both in and outside Quebec</h2>
-    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p>
-    <h2>If you worked both in and outside Quebec</h2>
-    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p>
-    <h2>If you worked outside Canada</h2>
+			</details>
+			<details>
+    <summary><strong>If you worked both in and outside Quebec</strong></summary>
+    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p></details>
+			<details>
+    <summary><strong>If you worked both in and outside Quebec</strong></summary>
+    <p>If you paid into both the Canada Pension Plan and Quebec  Pension Plan, you need to apply to the province where you live now. </p></details>
+			<details>
+    <summary><strong>If you worked outside Canada</strong></summary>
     <p>If  you <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-international.html">worked  in a country other than Canada</a>, the credits you earned in that country may  help you qualify for&nbsp;the&nbsp;disability benefit. </p>
-    <h2>If you are a health  care professional </h2>
+			</details>
+			<details>
+    <summary><strong>If you are a health care professional</strong> </summary>
     <p>Find out what you need to do to <a href="https://www.canada.ca/en/employment-social-development/programs/disability/benefits/medical.html">help your patient apply  for a disability benefit </a>.</p>
-    <div>
-      <div> </div>
-      <div> </div>
-      <div> </div>
-      <div> </div>
-      <section> </section>
-    </div>
+			</details>
   </section>
   <nav role="navigation">
     <h2 class="wb-inv">Document navigation</h2>
