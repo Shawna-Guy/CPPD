@@ -162,6 +162,7 @@
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item active">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" class="list-group-item">4. Apply</a></li>
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20Disability" class="list-group-item">5. While on CPP Disability</a></li>
+				 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/6.Medical" class="list-group-item">6. Information for medical professionals</a> </li>
               </ul>
             </div>
           </div>
@@ -184,7 +185,7 @@
             <td>$1,362.30</td>
 		  </tr>
       <tr>
-        <th>*CPP Post-retirement disability benefit</th>
+        <th>CPP Post-retirement disability benefit</th>
         <td>$496.36</td>
         <td>$496.36</td>
       </tr>
@@ -194,29 +195,25 @@
         <td>$250.27</td>
       </tr>
     </table>
-    <ul class="list-unstyled">
-        <li><small>*Note:
-      The disability benefit amounts are reviewed every January to reflect changes in the  cost of living. Your monthly benefit amount will not decrease if the cost of  living goes down. <br>
-      Read more about &nbsp;Canada  Pension Plan <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html">&nbsp;benefits amounts</a>.</small></li>
-      </ul>
-    <h2>Your payment</h2>
-    <p>You can receive your benefit payment by direct deposit to  your banking account in Canada, the United States, or  other <a href="https://www.tpsgc-pwgsc.gc.ca/recgen/dd/etranger-abroad-eng.html#a4">specific  countries</a>. We can also pay you by cheque. </p>
-    <h2>If you are getting other benefits</h2>
-    <p>If you get both a  CPP  survivor's pension and a disability benefit, they will be combined into a  single monthly payment. The total amount you get cannot be greater  than $1,335.83 per month (the maximum amount of the disability pension). The limit  helps to make the Plan  fairer.  It   ensures  that no one person  receives  more than the amount  paid to an individual who worked and made the maximum  contributions to the Plan throughout their working life. </p>
+      <p>The disability benefit amounts are reviewed every January to  reflect changes in the cost of living. Your monthly benefit amount will not  decrease if the cost of living goes down. Read more about&nbsp;Canada Pension  Plan<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html">&nbsp;benefits amounts</a>.</p>
+<h2>Your payment</h2>
+    <p>You can receive your benefit payment by direct deposit to your banking account in Canada, the  United States, or other <a href="https://www.tpsgc-pwgsc.gc.ca/recgen/dd/etranger-abroad-eng.html#a4">specific  countries</a>.</p><h2>If you are getting other benefits</h2>
+    <p>If you get both a CPP survivor's pension and a disability benefit,  they will be combined into a single monthly payment. The total amount you get  cannot be greater than $1,362 . 30 per month (the maximum amount of the  disability pension). </p>
+	<p>If  you are receiving both a retirement and survivor pension, and are then granted  a post-retirement disability benefit, you will receive the higher amount of the  survivor or post-retirement disability benefit flat rate.</p>
     <h3>Disability income from other sources</h3>
-    <p>If you are receiving disability income from other sources,  such as a private insurer or a provincial/territorial program, you may still be  able to receive the CPP disability  benefit. However, these other sources may change their payments if you are  approved for the disability benefit through the Canada Pension Plan.<br>
-      Contact your insurance company or social assistance program  for details about your  case.</p>
+    <p>If you are receiving disability income from other sources,  such as a private insurer or a provincial/territorial program, you may still be  able to receive the CPP disability  benefit. However, these other sources may change their payments if you are  approved for the disability benefit through the Canada Pension Plan.</p>
+      <p>Contact your insurance company or social assistance program  for details about your  case.</p>
     <h2> Disability benefit payments are  taxable income </h2>
     <p>You can ask that federal income tax be deducted from your  monthly payments by:</p>
     <ul>
       <li> signing into your <a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My  Service Canada Account</a> or</li>
-      <li> completing  the <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3520CPP">Request  for voluntary Federal Income tax Deductions CPP/OAS form</a> and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mailing  it to us</a> or  dropping it off at a <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Service  Canada office</a></li>
+      <li> completing  the <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP3520CPP">Request  for voluntary Federal Income tax Deductions CPP/OAS form</a> and <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">mailing  it to us</a> or  dropping it off at a <a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Service Canada office</a></li>
     </ul>
     <p>If you do not ask for monthly tax deductions, you may have  to pay your income tax each quarter. For more information, contact the&nbsp;<a href="http://www.cra-arc.gc.ca/cntct/tso-bsf-eng.html">Canada Revenue Agency (CRA) Tax Services Office</a>.</p>
     <h2>Medications and medical devices</h2>
     <p>The CPP  disability benefit does not pay for medications or medical devices. Contact  your province or territory if you need financial help for medication or medical  devices.</p>
   </section>
-  <nav role="navigation">
+        <nav role="navigation">
     <h2 class="wb-inv">Document navigation</h2>
     
     <ul class="pager">
