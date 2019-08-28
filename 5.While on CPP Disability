@@ -134,7 +134,7 @@
 <li><a href='https://www.canada.ca/en/services/benefits.html'>Benefits</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits/publicpensions.html'>Public pensions</a></li>
 <li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp.html'>Canada Pension Plan - Overview</a></li>
-<li><a href='https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20disability'>Canada Pension Plan Disability Benefit - While on CPP Disability</a></li>
+<li><a href='https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit.html'>Canada Pension Plan Disability Benefit - Overview</a></li>
 </ol></div></nav>
 
 	<div data-ajax-replace="https://www.canada.ca/bin/canada/alert/messages.en.html" class="original"></div>
@@ -161,7 +161,8 @@
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/2.Who%20can%20get%20this%20benefit" class="list-group-item">2. Who can get this benefit</a></li>
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" class="list-group-item">4. Apply</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20Disability" class="list-group-item active">5. While on CPP Disability</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20disability" class="list-group-item active">5. While on CPP Disability</a></li>
+			<li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/6.Medical" class="list-group-item">6. Information for medical professionals</a> </li>
               </ul>
             </div>
           </div>
@@ -174,30 +175,50 @@ Once all the necessary information has been collected, a decision to continue or
     <p>Without losing your disability benefit, you can:</p>
     <ul type="disc">
       <li>do volunteer work</li>
-      <li>go back to school to upgrade or complete a diploma or degree</li>
-      <li>take a re-training program</li>
+      <li>go back to school to upgrade or complete a diploma or degree (you must notify Service Canada when you complete your  diploma or degree)</li>
     </ul>
     <h2>Working while receiving CPP disability </h2>
     <p>You can earn up to a certain amount per year without losing  your disability benefits. For 2019, this amount is $5,700 (before taxes). If  you earn more than the amount allowed, you must&nbsp;<a href="https://www.canada.ca/en/employment-social-development/corporate/contact/cpp.html">contact Canada Pension Plan</a>.<br>
       If you delay in contacting us when you start working and  making over the allowed amount, you might have to pay some money back. <strong></strong><br>
       We may be able to help you return to work through the&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-disability-benefit/vocational-rehabilitation.html">CPP Disability Vocational  Rehabilitation Program</a>.</p>
-    <h2>When  your benefit could stop</h2>
-    <p>The  disability benefit is meant to replace some of your employment income for as  long as your disability stops you from working at any job on a regular basis.</p>
-      <p>Your disability benefit will stop if:</p>
+    <h3>Examples</h3>
+			<details>
+    <summary><strong>Working  part-time while on CPP disability</strong></summary>
+     <p> Joseph returned to work on a  part time basis in March 2019.  He earned  $5,700 (before taxes) by June 2019. Joseph must call Service Canada to let them  know he has earned $5,700.</p>
+    <p>Additionally, he needs to tell  them: </p>
+    <ul>
+      <li>the date he returned to work</li>
+      <li>the hours he worked per week/month</li>
+      <li>his hourly wages</li>
+      <li>if the job is full time, part time, seasonal or  self employed</li>
+    </ul>
+				<p>Service Canada  Staff will contact Joseph to see how he is doing.</p>
+			</details>
+      <details>
+		  <summary><strong>Working while receiving CPP disability and making less than $5,700 a year</strong></summary>
+    <p>Jean works 2 hours a day 3 days a week at the information desk of the local library. She is paid $15.00 per hour. She likes to interact with people and to feel a part of the community. She earns $4,680 per year. It is all the work she can tolerate with her medical condition. She does not need to report this work activity to Service Canada.</p>
+			</details>
+      <details>
+		  <summary><strong>Working while on CPP disability and making more than $5,700 a year</strong></summary>
+      <p>Robert would like to try to return to the workforce. He is no longer able to do his job as a roofer but his company has offered him light work as an estimator. He returned to work in March working 30 hours/week at $25.00 per hour. Robert needs to contact CPP once he reaches $5,700. </p>
+			</details>
+    <h2>When your benefit could stop</h2>
+    <p>The disability benefit is meant to replace some of your employment income for as long as your disability stops you from working at any job on a regular basis.</p>
+      <p>Your disability benefit will stop if you:</p>
     <ul>
       <li>you are capable of working on a regular basis</li>
       <li>you are no longer disabled</li>
       <li>you turn 65 </li>
       <li>you die </li>
     </ul>
-    <p>When  a disability benefit is cancelled, any related&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">children's benefits</a> are  also cancelled. </p>
+    <p>When a disability benefit is cancelled, any related&nbsp;<a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-childrens-benefit.html">children's benefits</a> are  also cancelled. </p>
     <h3>When you turn 65</h3>
     <p>When you turn 65 the disability benefit will automatically be changed to a Canada Pension Plan retirement pension. If you are getting the post-retirement disability  benefit, it will stop<br>
       Your  retirement pension will be less than your disability benefit. However, you can also apply for <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html">Old  Age Security</a> and the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html">Guaranteed  Income Supplement</a>. Your spouse or common-law partner may also be eligible  for the <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement/allowance.html">Allowance</a> benefit if they are 60 to 64 (up to and including the month of their 65th  birthday).</p>
     <h3>When someone dies </h3>
-    <p>If you're reading this following the loss of a  loved one, please accept our condolences. <br>
-      When  someone dies, please inform us as soon as possible to avoid overpayment. <br>
-      The estate and survivors may be eligible to receive  other CPP benefits: <br>
+    <p>If you're reading this following the loss of a loved one, please accept our condolences. </p>
+      <p>When someone dies, please inform us as soon as possible to avoid overpayment. Find out how to <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cancel-cpp.html">cancel CPP benefits</a> on behalf of a deceased person.</p>
+      <p>The estate and survivors may be eligible to receive  other CPP benefits: </p>
   <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-death-benefit.html">Death  benefit</a> <br>
   <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-survivor-pension.html">Survivor&rsquo;s pension</a></p>
   </section>
