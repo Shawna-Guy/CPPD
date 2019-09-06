@@ -161,7 +161,7 @@
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/2.Who%20can%20get%20this%20benefit" class="list-group-item">2. Who can get this benefit</a></li>
                 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/3.How%20much%20you%20could%20receive" class="list-group-item">3. How much could you receive</a></li>
                 <li class="col-md-4 clr-lft-md clr-lft-lg"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/4.Apply" class="list-group-item active">4. Apply</a></li>
-                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20disability" class="list-group-item">5. While on CPP Disability</a></li>
+                <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/5.While%20on%20CPP%20Disability" class="list-group-item">5. While on CPP Disability</a></li>
 				 <li class="col-md-4"> <a href="https://htmlpreview.github.io/?https://github.com/Shawna-Guy/CPPD/blob/master/6.Medical" class="list-group-item">6. Information for medical professionals</a> </li>
               </ul>
             </div>
@@ -203,15 +203,15 @@
     <h2 id="step1">Make sure your application is complete</h2>
     <p> To  apply for a disability benefit you  need to complete the following 2 forms :</p>
     <ul>
-      <li><a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-1151.pdf">Application for Canada Pension Plan  Disability Benefits form</a> (ISP-1151)</li>
-      <li>Complete section 1 and 2 of the <a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">Medical  Report for a Canada Pension Plan Disability Benefit form</a> (ISP-2519) and ask your doctor or nurse practitioner to  complete the rest of the form </li>
+      <li><a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-1151.pdf">Application for Canada Pension Plan  Disability Benefits form(ISP-1151)</a> </li>
+      <li>Complete section 1 and 2 of the <a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">Medical  Report for a Canada Pension Plan Disability Benefit form (ISP-2519)</a> and ask your doctor or nurse practitioner to  complete the rest of the form </li>
     </ul>
     <h3>If you have a terminal illness</h3>
     <p>A  terminal medical condition is a disease state that cannot be cured or  adequately treated and is reasonably expected to result in death within 6 months. <br>
       To  apply for disability benefits for a terminal illness you need to complete these 2 forms instead: </p>
     <ul>
       <li><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530A.pdf">Terminal Illness Application for Disability Benefits Under the Canada Pension Plan form  (ISP-2530A)</a></li>
-      <li>Complete section 1 and 2 of the&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530B.pdf">Terminal  Illness Medical Attestation for a Disability Benefits Application under the  Canada Pension Plan form</a> (ISP-2530B) and ask your doctor or nurse practitioner to  complete the rest of the form</li>
+      <li>Complete section 1 and 2 of the&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/CallForm.html?Lang=en&PDF=ISP-2530B.pdf">Terminal  Illness Medical Attestation for a Disability Benefits Application under the  Canada Pension Plan form (ISP-2530B)</a> and ask your doctor or nurse practitioner to  complete the rest of the form</li>
     </ul>
 	<details>
     <summary> Information on completing the application form </summary>
@@ -224,7 +224,7 @@
     </ul>
 	</details>
 	<details>
-    <h3> Information on completing the medical form</h3>
+    <summary> Information on completing the medical form</summary>
     <p>In addition to your application, you need a medical form completed  by your doctor or nurse practitioner. It is very important that you:</p>
     <ul type="disc">
          <li>complete Sections 1 and 2 of <a href="https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/ISP-2519.pdf">the Medical Report for a Canada Pension Plan Disability Benefit form</a> <strong>before</strong> you give it to your doctor or nurse practitioner</li>
@@ -232,8 +232,9 @@
       <li>If you are currently receiving a disability  benefit from an insurance company or a provincial/territorial agency, you can  ask them to send us your most current medical records instead of the medical report form</li>
     </ul>
     <p>We will pay your health care professional up to $85.00 for  completing your medical form. Should they charge more than $85.00, you are  responsible for covering any extra costs.<br>
-      See the&nbsp;<a href="https://www.canada.ca/en/employment-social-development/programs/disability/benefits/medical.html">amounts that Service Canada will reimburse your health care professional</a>.</p></details>
-    <h2>If someone is helping you apply</h2>
+      See the&nbsp;<a href="https://www.canada.ca/en/employment-social-development/programs/disability/benefits/medical.html">amounts that Service Canada will reimburse your health care professional</a>.</p>
+	</details>
+    <h3>If someone is helping you apply</h3>
     <p>To allow someone to help you apply for the disability benefit either:</p>
     <ul>
       <li>sign  in to your&nbsp;<a href="https://www.canada.ca/en/employment-social-development/services/my-account.html">My Service  Canada Account</a><u>;</u></li>
@@ -265,7 +266,7 @@
     <p>You must apply in writing. Print copies of the forms  and&nbsp;return to us&nbsp;with&nbsp;<a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/Detail.html?Form=ISP1730CPP">certified copies</a>&nbsp;of  any required documents.</p>
       <p><a href="https://catalogue.servicecanada.gc.ca/content/EForms/en/ReturningtheForm/IspCpp.html">Mail  your forms</a> or drop them off at a <a href="http://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng">Service  Canada office.</a></p>
 <h2 id="step3">Get updates on your application</h2>
-    <p>It can take up to 120 days<strong> (four months) for a decision  to be made</strong>&nbsp;from the date we receive your complete application and all required  documents. </p>
+    <p>It can take up to <strong>120 days (four months) for a decision  to be made</strong>&nbsp;from the date we receive your complete application and all required  documents. </p>
 <ol start="1" type="1">
   <li> <strong>When we receive your application,</strong> we will call you.</li>
 </ol>
