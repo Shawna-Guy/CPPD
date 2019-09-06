@@ -219,8 +219,10 @@ Once all the necessary information has been collected, a decision to continue or
     <p>If you're reading this following the loss of a loved one, please accept our condolences. </p>
       <p>When someone dies, please inform us as soon as possible to avoid overpayment. Find out how to <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cancel-cpp.html">cancel CPP benefits</a> on behalf of a deceased person.</p>
       <p>The estate and survivors may be eligible to receive  other CPP benefits: </p>
-  <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-death-benefit.html">Death  benefit</a> <br>
-  <a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-survivor-pension.html">Survivor&rsquo;s pension</a></p>
+			<ul>
+  <li><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-death-benefit.html">Death  benefit</a> </li>
+  <li><a href="https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-survivor-pension.html">Survivor&rsquo;s pension</a></li>
+			</ul>
   </section>
   <nav role="navigation">
     <h2 class="wb-inv">Document navigation</h2>
